@@ -5,6 +5,6 @@ squeak mouse case from hack club ysws :3
 
 ## screenshot
 
-<img src="\squeakat\imgs\squeakat_top_left_corner_view.png"
+<img src="\imgs\squeakat_top_left_corner_view.png"
 alt="top left corner view"
 style="height: 300px; width:500px;"/>
